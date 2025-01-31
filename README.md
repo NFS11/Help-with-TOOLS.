@@ -26,6 +26,6 @@ What about XWorm/NanoCore/Silver/Sorillus?
 Do you have Telegram?
 - I do not. Sorry.
 
-I do NOT condone unethical hacking or usage of these tools. Only use with consent of other people or on devices that YOU own or VM's. Anything you do with these tools, is not my responsibility and neither is it the responsibility of the creators of these tools. So please, do not RAT or hack people without their consent or knowledge or for unethical purposes (unless its a scammer, I love scambaiting)
+I do NOT condone unethical hacking or usage of these tools. Only use with consent of other people or on devices that YOU own or VM's. Anything you do with these tools, is not my responsibility and neither is it the responsibility of the creators of these tools. So please, do not RAT or hack people without their consent or knowledge or for unethical purposes. Thank you.
 
 Hope this helps!
