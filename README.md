@@ -9,22 +9,22 @@ How do I add you on Discord?
 
 I can help with any of these tools:
 
--Xeno RAT: https://github.com/moom825/xeno-rat
--ASyncRAT: https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp
--dcRAT (maybe): https://github.com/qwqdanchun/DcRat
--Discord RAT 2.0 (moom825): https://github.com/moom825/Discord-RAT-2.0
+- Xeno RAT: https://github.com/moom825/xeno-rat
+- ASyncRAT: https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp
+- dcRAT (maybe): https://github.com/qwqdanchun/DcRat
+- Discord RAT 2.0 (moom825): https://github.com/moom825/Discord-RAT-2.0
 
 I CANNOT help with these tools (sorry):
 
--Luna-Grabber (this was taken down and does not work anymore.): https://github.com/Smug246/Luna-Grabber
--PySilon-malware (risky to use due to bans, not very good nowadays, very high risks and a lot of errors): https://github.com/mategol/PySilon-malware
--Quasar (really? do I even have to explain why?): https://github.com/quasar/Quasar
+- Luna-Grabber (this was taken down and does not work anymore.): https://github.com/Smug246/Luna-Grabber
+- PySilon-malware (risky to use due to bans, not very good nowadays, very high risks and a lot of errors): https://github.com/mategol/PySilon-malware
+- Quasar (really? do I even have to explain why?): https://github.com/quasar/Quasar
 
 What about XWorm/NanoCore/Silver/Sorillus?
--I don't know much about these tools, sorry. I'd assume they work the same way as most server RAT's.
+- I don't know much about these tools, sorry. I'd assume they work the same way as most server RAT's.
 
 Do you have Telegram?
--I do not. Sorry.
+- I do not. Sorry.
 
 I do NOT condone unethical hacking or usage of these tools. Only use with consent of other people or on devices that YOU own or VM's. Anything you do with these tools, is not my responsibility and neither is it the responsibility of the creators of these tools. So please, do not RAT or hack people without their consent or knowledge or for unethical purposes (unless its a scammer, I love scambaiting)
 
