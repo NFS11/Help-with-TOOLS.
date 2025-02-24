@@ -13,10 +13,10 @@ I can help with any of these tools:
 - ASyncRAT: https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp
 - dcRAT (maybe): https://github.com/qwqdanchun/DcRat
 - Discord RAT 2.0 (moom825): https://github.com/moom825/Discord-RAT-2.0
+- Luna-Grabber (still taken down but i just made it work so now i can help with it): https://github.com/Smug246/Luna-Grabber
 
 I CANNOT help with these tools (sorry):
 
-- Luna-Grabber (this was taken down and does not work anymore.): https://github.com/Smug246/Luna-Grabber
 - PySilon-malware (risky to use due to bans, not very good nowadays, very high risks and a lot of errors): https://github.com/mategol/PySilon-malware
 - Quasar (really? do I even have to explain why?): https://github.com/quasar/Quasar
 
