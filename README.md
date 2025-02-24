@@ -21,7 +21,7 @@ I CANNOT help with these tools (sorry):
 - Quasar (really? do I even have to explain why?): https://github.com/quasar/Quasar
 
 What about XWorm/NanoCore/Silver/Sorillus?
-- I don't know much about these tools, sorry. I'd assume they work the same way as most server RAT's.
+- I'd assume they work the same way as most server RAT's.
 
 Do you have Telegram?
 - I do not. Sorry.
