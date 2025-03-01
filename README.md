@@ -1,5 +1,5 @@
 # Help-with-TOOLS.
-Recently some people have been asking me for help on RAT tools or other things. This has all been going onto my ActivePorts respiratory. I have created this respiratory so you can ask how to use things or pop by and say hi or something.
+Recently some people have been asking me for help on RAT tools or other things. This has all been going onto my ActivePorts respiratory. I have created this respiratory so you can ask how to use things or pop by and say hi or something. (note: i may not be online 100% of the time to see your issues.)
 
 How to ask for help here?
 - Go post an issue with what tool you need help with, what your problem is, or if you just want to say hi.
