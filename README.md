@@ -23,8 +23,11 @@ I CANNOT help with these tools (sorry):
 What about XWorm/NanoCore/Silver/Sorillus?
 - I'd assume they work the same way as most server RAT's.
 
-Do you have Telegram?
-- I do not. Sorry.
+Ways to contact me:
+- Discord (ask for me to add you and i will do so shortly)
+- Telegram (dont have account yet but i will manage that soon)
+- Email (may put this up here at some point)
+- GitHub (make an issue and attempt to ask for help there. if not possible, or you'd prefer other ways of communication, please state what method to use and why and i will follow up shortly)
 
 I do NOT condone unethical hacking or usage of these tools. Only use with consent of other people or on devices that YOU own or VM's. Anything you do with these tools, is not my responsibility and neither is it the responsibility of the creators of these tools. So please, do not RAT or hack people without their consent or knowledge or for unethical purposes. Thank you.
 
